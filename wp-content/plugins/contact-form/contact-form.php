@@ -7,7 +7,7 @@
  * Author URI:      YOUR SITE HERE
  * Text Domain:     contact-form
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         0.1.1
  *
  * @package         Contact_Form
  */
